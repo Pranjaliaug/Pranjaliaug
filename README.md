@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pranjaliaug
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning bugbounty and info sec 
+- 👀 Interests -  Web development, cybersecurity, Trekking, calligraphy etc.
 - 📫 How to reach me parabprajakta31@gmail.com
 
 <!---
